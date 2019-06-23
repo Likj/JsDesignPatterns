@@ -1,0 +1,10 @@
+{
+  "name": "JsDesignPatterns",
+  "version": "1.0.0",
+  "description": "js design patterns ",
+  "main": "index.js",
+  "repository": "https://github.com/Likj/JsDesignPatterns.git",
+  "author": "lzy",
+  "license": "MIT",
+  "private": false
+}
